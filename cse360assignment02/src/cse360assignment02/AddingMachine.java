@@ -1,3 +1,7 @@
+// Ian Mauch
+// 10/05/2020
+// Assignment 01. Version Control 
+
 package cse360assignment02;
 
 public class AddingMachine {
