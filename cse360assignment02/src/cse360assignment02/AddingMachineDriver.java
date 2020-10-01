@@ -10,10 +10,6 @@ public class AddingMachineDriver {
 		myCalculator.add(5);
 		System.out.println(myCalculator.toString());
 		System.out.println(myCalculator.getTotal());
-		myCalculator.clear();
-		myCalculator.add(99);
-		System.out.println(myCalculator.toString());
-		System.out.println(myCalculator.getTotal());
 	}
 
 }
